@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-bengali {
+  font-family: 'Noto Sans Bengali', 'Bangla', 'SolaimanLipi', sans-serif;
+}
+
